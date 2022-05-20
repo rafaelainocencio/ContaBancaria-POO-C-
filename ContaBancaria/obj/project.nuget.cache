@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lL8UWcsjYhNDleBgArBB0GLYeBcAyhv1sPmd2Ef4eruchxNX5Y9TvnLmMXmZ5bQ5UYfvdaUax8T7IgzzGa/HHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rafa\\source\\repos\\ContaBancaria\\ContaBancaria\\ContaBancaria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rafa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

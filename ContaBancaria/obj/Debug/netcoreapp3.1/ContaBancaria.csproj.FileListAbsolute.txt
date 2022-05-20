@@ -1,0 +1,14 @@
+C:\Users\Rafa\source\repos\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp3.1\ContaBancaria.exe
+C:\Users\Rafa\source\repos\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp3.1\ContaBancaria.deps.json
+C:\Users\Rafa\source\repos\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp3.1\ContaBancaria.runtimeconfig.json
+C:\Users\Rafa\source\repos\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp3.1\ContaBancaria.runtimeconfig.dev.json
+C:\Users\Rafa\source\repos\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp3.1\ContaBancaria.dll
+C:\Users\Rafa\source\repos\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp3.1\ContaBancaria.pdb
+C:\Users\Rafa\source\repos\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp3.1\ContaBancaria.csproj.AssemblyReference.cache
+C:\Users\Rafa\source\repos\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp3.1\ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafa\source\repos\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp3.1\ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\Rafa\source\repos\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp3.1\ContaBancaria.AssemblyInfo.cs
+C:\Users\Rafa\source\repos\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp3.1\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Rafa\source\repos\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp3.1\ContaBancaria.dll
+C:\Users\Rafa\source\repos\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp3.1\ContaBancaria.pdb
+C:\Users\Rafa\source\repos\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp3.1\ContaBancaria.genruntimeconfig.cache
